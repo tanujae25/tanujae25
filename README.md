@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [E TANUJA]</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm E TANUJA</h1>
+<h3 align="center">Aspiring Data Scientist | Data Enthusiast | Lifelong Learner</h3>
 
 ---
 
